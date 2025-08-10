@@ -1,4 +1,4 @@
-﻿PImports System.Data.SqlClient
+﻿Imports System.Data.SqlClient
 Imports Models
 
 Public Class ClienteRepository
@@ -62,4 +62,3 @@ Public Class ClienteRepository
     End Sub
 
 End Class
-
